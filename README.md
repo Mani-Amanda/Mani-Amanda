@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on advanced concepts in computer science and technology to enhance my skills and contribute to impactful projects.
 
-- 🌱 I’m currently learning ML (inspired by Andrew NG)
+- 🌱 I’m currently learning ML (inspired by Dr. Andrew NG👨‍🏫)
 
-- 👯 I’m looking to collaborate on projects involving software development, cloud solutions, and innovative technologies to solve real-world problems.
+- 👯 I’m looking to collaborate on projects involving software development, cloud solutions, and innovative technologies to solve real-world problems🤓.
 
 - ⚡ Fun fact I think I am Sung Jin-Woo🦹🏻‍♀️(lol)😂
 
